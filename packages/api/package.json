@@ -1,0 +1,10 @@
+{
+  "name": "@pck/api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}

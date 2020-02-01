@@ -1,0 +1,14 @@
+{
+  "name": "@pck/cart",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.19",
+    "typescript": "^3.7.5"
+  }
+}
