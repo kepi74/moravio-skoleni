@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {},
+  "main": "src/index.ts",
   "dependencies": {},
   "devDependencies": {
     "typescript": "^3.7.5"

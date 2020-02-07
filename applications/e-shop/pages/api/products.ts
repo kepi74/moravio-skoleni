@@ -1,0 +1,1 @@
+export { productsResolver as default } from "@pck/api";

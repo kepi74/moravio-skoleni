@@ -1,10 +1,10 @@
 import React from "react";
 import { Layout } from "@pck/ui";
 
-const Products = () => (
+const Cart = () => (
   <Layout>
-    <h1>Dálniční známky</h1>
+    <h1>Nákupní košík</h1>
   </Layout>
 );
 
-export default Products;
+export default Cart;
